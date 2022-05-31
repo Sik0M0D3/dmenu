@@ -1,2 +1,4 @@
 # dmenu
-Same as the others but for dmenu
+
+  My dmenu build has 4 patches.
+  And this is a repo for my lazyness.
